@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity implements SuburbAdapter.Dro
         });
     }
 
-    private void newMethod(){
+    private void newMethod2(){
 
     }
 
