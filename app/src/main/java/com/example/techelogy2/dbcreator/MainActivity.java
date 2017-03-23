@@ -68,6 +68,10 @@ public class MainActivity extends AppCompatActivity implements SuburbAdapter.Dro
         });
     }
 
+    private void newMethod(){
+
+    }
+
 
     private void callPtSuburbApi(String suburb) {
         suburbList.clear();
